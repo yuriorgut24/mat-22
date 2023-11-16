@@ -1,0 +1,30 @@
+h1 {
+    text-align: center;
+
+}.single-color {
+  color: steelblue;
+}
+
+
+.gradient {
+ 
+  background-image: linear-gradient(to bottom, rebeccapurple, steelblue, turquoise);
+  background-clip: text;
+  -webkit-background-clip: text;
+
+ 
+  -webkit-text-fill-color: transparent;
+
+ 
+  color: black;
+ 
+ 
+ 
+}
+
+
+p {
+  font-size: 3rem;
+  font-weight: bold;
+  line-height: 1.1;
+}
